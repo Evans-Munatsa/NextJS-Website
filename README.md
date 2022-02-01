@@ -1,4 +1,4 @@
-## Getting Started
+## ReactJS and NextJS Production Ready Website
 
 Install the dependencies and run the development server
 
